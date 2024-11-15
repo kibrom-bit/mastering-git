@@ -1,1 +1,2 @@
 console.log("Hello,Git!");
+console.log("Hello i am kibrom who have a father that love me as much as scrife his self and cary all my sin by your self i love you jesus; you are my loard , my life ,my way, my truth,my every thing and i will worship and pray for you!");
